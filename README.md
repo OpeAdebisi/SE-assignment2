@@ -1,46 +1,22 @@
-# SE-assignment2
-
-
-Assignment 2 for software Engineering -version Control using GitHub
+SE-assignment2  
 
 
 
+This repository demonstrates Version Control using GitHub for Assignment 2.  
 
 
 
+### Tasks Completed  
+
+Created repository and branches.  
+
+ Simulated a merge conflict in README.md.  
+
+ Resolved the conflict and merged into main.  
 
 
 
+### Final Note  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This Line is from FEATURE-2 branch only (conflict test)
-
-
-
-This line is from feature-2 b branch
-This is from main branch
+This assignment shows practical use of Git branching
 
